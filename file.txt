@@ -1,0 +1,2 @@
+This is my newly created text file.
+Hello everyone!
